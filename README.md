@@ -1,0 +1,1 @@
+# Look-up-Table-to-calculate-log2
